@@ -1,0 +1,2 @@
+https://docs.google.com/document/d/1suQOFx5KArRc8Hz5bFZVq8OJHLcFg9n2IyJWsSkguJ4/edit
+copy into putty:tee -a ชื่อไฟล์.c <<EOF paste EOF
